@@ -30,7 +30,7 @@ body {
 
 .count {
   color: #fff;
-  font-size: 13rem;
+  font-size: 11rem;
   font-family: 'Roboto Mono', monospace;
   text-shadow: 1px 1px 3px #999899;
 }
@@ -61,5 +61,5 @@ body {
 
 .btn:hover {
   transition: .3s;
-  background: #e2e1e1;
+  background: #c7c7c7;
 }
